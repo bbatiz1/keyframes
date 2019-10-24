@@ -11,6 +11,10 @@ p{
 
 .gallary {
   display: grid;
-  grid-template: 100% / 30% 30% 30%;
+  grid-template: 100% / 33% 33% 33%;
 
+}
+
+h2 {
+  text-align: center;
 }
