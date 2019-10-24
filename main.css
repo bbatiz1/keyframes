@@ -1,10 +1,13 @@
 body{
   font-family: sans-serif;
+  background-color: rgb(60, 205, 0)
 }
+
 h1{
   background-color: #ea5169;
   text-align: center;
 }
+
 p{
   text-align: center;
 }
@@ -12,9 +15,17 @@ p{
 .gallary {
   display: grid;
   grid-template: 100% / 33% 33% 33%;
-
 }
 
+.gallary img {
+  padding: 0 20%;
+}
 h2 {
   text-align: center;
+  padding: 5% 0%;
+}
+
+.splash {
+  display: grid;
+  grid-template: 100% / 33% 33% 33%;
 }
