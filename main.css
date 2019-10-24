@@ -8,3 +8,9 @@ h1{
 p{
   text-align: center;
 }
+
+.gallary {
+  display: grid;
+  grid-template: 100% / 30% 30% 30%;
+
+}
